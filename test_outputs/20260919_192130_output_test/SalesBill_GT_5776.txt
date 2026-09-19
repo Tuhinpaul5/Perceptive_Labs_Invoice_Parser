@@ -1,0 +1,125 @@
+HSN/SAC
+Debit Memo
+ 
+TAX INVOICE
+ 
+Original
+Qty
+Rate
+Amount
+SrNo
+Product Name
+Sanmati Coal & Cokes Private Limited
+M/s. :
+B 507,SYNERGY OPP COMMERCE HOUSE NR VODAPHONE 
+AHMEDABAD,
+Ahmedabad - 380015
+Invoice No.
+:
+GT/5776
+Date
+:
+13/08/2025
+Transport
+:
+SELF
+Vehicle No.
+:
+GJ12BV1475
+L R No.
+:
+ 
+ANGEL RESOURCES PRIVATE LIMITED
+ 
+OFFICE NO.711, R K WORLD TOWER, 150 FT RING ROAD, RAJKOT-360006
+GSTIN No.        :
+24AARCS6957L1ZG
+Place of Supply :
+24-Gujarat
+ 
+GST %
+Size
+Imported Coal
+ 
+27011920
+ 
+   43.770
+ 
+ 5.00
+ 
+   4375.00
+ 
+  191493.75
+ 
+  1
+ 
+0-50
+Central Tax
+ 
+    4787.34
+State/UT Tax
+ 
+    4787.34
+Round Off
+ 
+      -0.19
+ 
+   2,20,762.00
+Grand Total
+ 
+For, ANGEL RESOURCES PRIVATE LIMITED
+(Authorised Signatory)
+Bill Amount :
+Two Lakh Twenty Thousand Seven Hundred Sixty Two Only
+Terms & Condition :
+1.  Goods once sold will not be taken back.
+4.
+"Subject to 'RAJKOT' Jurisdiction only.   E.&.O.E"
+BANK OF INDIA
+:
+Bank Name 
+311630150000058
+Bank A/c. No.
+: 
+BKID0003116
+:
+RTGS/IFSC Code
+Taxable Amount
+2.  Interest @18% p.a. will be charged if payment is not made within due date.
+3.  Our risk and responsibility ceases as soon as the goods leave our premises.
+Total GST :
+Nine Thousand Five Hundred Seventy Four And Sixty Eight Paise
+Only
+ 
+  191493.75
+Note :
+GSTIN No.:
+24ABBCA6392E1ZU
+Sub Total
+ 
+ 2.50% 
+ 2.50%
+Cess
+ 
+   17508.00
+UDYAM No.:
+UDYAM-GJ-20-0212553
+Ack No
+Ack Date
+IRN NO
+:
+:
+:
+162521647573223
+5a19a6a8d30f4894dd28abf9c94793a73e488812f42737fba49fc9f
+ec2a871eb
+13/08/2025 09:39:00 PM
+E WAY NO
+:
+671952879754
+:
+TCS
+ 
+    2185.76
+ 
+ 191493.75
